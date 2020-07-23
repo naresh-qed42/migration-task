@@ -1,0 +1,8 @@
+name: NDTV xml importer using migration mdoules
+description: QED42 Custom module.
+package: Custom
+dependencies:
+  - drupal:migrate_plus
+  - drupal:migrate_tools
+type: module
+core: 8.x
