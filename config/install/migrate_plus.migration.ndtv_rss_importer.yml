@@ -7,7 +7,7 @@ field_plugin_method: null
 cck_plugin_method: null
 migration_tags: null
 migration_group: null
-label: 'Import the NDTV RSS feed'
+label: 'Import the NDTV RSS feed new label'
 source:
   plugin: url
   data_fetcher_plugin: http
