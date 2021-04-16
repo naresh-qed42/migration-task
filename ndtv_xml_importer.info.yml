@@ -1,4 +1,4 @@
-name: NDTV xml importer using migration mdoules naresh
+name: NDTV xml importer using migration mdoules bavaskar
 description: QED42 Custom module one.
 package: Custom
 dependencies:
